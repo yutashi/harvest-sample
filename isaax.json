@@ -1,0 +1,11 @@
+{
+	"name": "harvest-sample",
+	"version": "0.0.1",
+	"description": "Some description goes here.",
+	"author": "yutashi",
+	"license": "MIT",
+	"language": "",
+	"scripts": {
+		"start": "python -u main.py"
+	}
+}
